@@ -27,3 +27,4 @@ console.log(array)
 
 array.splice(2,1) //removes an specific item in the array starting at index 2 and ending at 1
 console.log(array)
+

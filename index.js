@@ -13,4 +13,5 @@ function findMaxNumber(arr){
   console.log(biggestNum)
 }
 
+
 findMaxNumber([11, 89, 67, 87, 32, 81])

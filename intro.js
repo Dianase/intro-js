@@ -12,5 +12,5 @@ if (age >= 18){
 
 //TERNARY STATEMENT
 
-const message = (awesome) ? `You're awesome!` : `You're okay!`;
+const message = (awesome) ? `You're awesome!` : `You're okay!`; // ? is the checker : is the else
 console.log(message);

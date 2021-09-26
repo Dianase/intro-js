@@ -8,4 +8,17 @@ students.unshift('Khrystofer') //adds to the beginning
 
 console.log(students.length)
 
-if(students.length)
+function isThereEnough(){
+
+if(students.length < 12){
+  console.log('not enough')
+}else{
+  console.log('just enough')
+}
+}
+
+isThereEnough() //this calls the function
+
+function addToArray(newSt){
+  students.
+}

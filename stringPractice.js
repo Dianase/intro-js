@@ -11,7 +11,7 @@ let str = "Manny is happy, and Happy Birthday Manny"
 let replace = str.replace("happy", "content")
 
 console.log(replace)
-
+============================
 let arrOfWords = str.split(' ')
 
 console.log(arrOfWords)
